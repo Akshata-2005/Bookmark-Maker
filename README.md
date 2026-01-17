@@ -23,7 +23,5 @@ This project is a simple **Bookmark Maker** web application built using **HTML, 
 3. Click the **Submit** button
 4. See your bookmarks appear in the list, and click any link to visit the site
 
-## Live Demo
-If hosted via **GitHub Pages**, the app can be accessed here:  
-`https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/`
+
 
